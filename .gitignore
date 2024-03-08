@@ -1,0 +1,5 @@
+# ignore all .pdf files
+*.pdf
+id_bank_sys
+id_bank_sys.pub
+
